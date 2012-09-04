@@ -16,7 +16,10 @@ appealing, ultimately the ability to continuously incorporate updates to the fra
 and adhere the universal conventions of the framework are hindered.
 
 I come from a Rails background and perhaps I am simply bias toward the conventions
-and language I am more familiar with, but immediately after cloning the (rather large)
+and language I am more familiar with, but my issues with the CakePHP framework continue to
+build the more I reduce my unfamiliarity.
+
+immediately after cloning the (rather large)
 repository, I find that sever of the files contain CRLF characters.  I have nothing 
 against the Windows formating of files but a given repository should be consistent.
 
