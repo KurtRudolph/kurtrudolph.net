@@ -68,6 +68,7 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+  system "vim #{filename}" # This need to modified to the default text editor of the system
 end # task :post
 
 # Usage: rake page name="about.html"
