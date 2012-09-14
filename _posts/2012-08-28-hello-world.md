@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 subtitle: "My first jekyll post..."
 description: "My first jekyll post"
-category: 
+category: Developer
 tags: ['hello-world']
 ---
 {% include JB/setup %}
