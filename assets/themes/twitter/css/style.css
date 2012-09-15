@@ -2,9 +2,11 @@
 body {
   padding-top:40px;
 }
+html, body, .page-header{
+  background-image: url('/assets/images/graph_logo.png');
+}
 html, body {
   background-color: #ddd;
-  background-image: url('/assets/images/graph_logo.png');
 }
 .navbar {
   margin-bottom: 0;
@@ -18,7 +20,7 @@ html, body {
 
 /* The white background content wrapper */
 .content {
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, .8);
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
@@ -31,7 +33,7 @@ html, body {
 
 /* Page header tweaks */
 .page-header {
-  background-color: #f5f5f5;
+  background-color: rgba(127, 127, 127, .7);
   padding: 20px 20px 10px;
   margin: -20px -20px 20px;
 }
