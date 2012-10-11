@@ -14,8 +14,8 @@ from terrible back pain, my self included.
 
 Personally, my back issues related to spending extended periods of time on
 a computer hindered many parts of my life.  I did not address the issue 
-lying down though \[pun _intended_\] as I have actively worked toward addressing
-the issue.  I have invested a great deal of time and money into the altered 
+lying down though \[pun _intended_\] as I have actively worked toward a solution.
+I have invested a great deal of time and money into the altered 
 my desk; mounting monitors, purchasing a more supportive chair, raising the height
 of the desk, along with many other things intended to enable more conducive
 usage of my computer accordingly to my bodies physical configuration.
