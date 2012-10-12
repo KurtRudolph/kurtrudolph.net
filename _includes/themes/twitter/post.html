@@ -3,7 +3,7 @@
 </div>
 
 <div class="row-fluid">
-  <div class="span8">
+  <div class="span10">
     {{ content }}
     <hr>
     <div class="pagination">
@@ -21,11 +21,9 @@
       {% endif %}
       </ul>
     </div>
-    <hr>
-    {% include JB/comments %}
   </div>
   
-  <div class="span4">
+  <div class="span2">
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
@@ -37,4 +35,6 @@
     </ul>
   {% endunless %}  
   </div>
+    <hr>
+    {% include JB/comments %}
 </div>
