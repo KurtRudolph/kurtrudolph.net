@@ -3,8 +3,9 @@ layout: page
 ---
 <div class="alert"><big>Under Construction</big></div>
 
-Welcome to my homepage!
-
+<div class="hero-unit">
+<h1>My homepage!</h1>
+</div>
 
 
 <ul class="posts">
