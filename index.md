@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<div class="alert"><big>Under Construction</big></div>
 
 <div class="hero-unit">
 <h1>My homepage!</h1>
