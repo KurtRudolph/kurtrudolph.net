@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src='/assets/images/me.png' >
+<img src='/assets/images/profile_pic.png' width='400' >
 
 
 * [StackExchange][0]
