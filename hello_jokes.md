@@ -15,4 +15,12 @@ tags
 - class 
 
 %joke_frame
-  %li= brother.message_
+  %li= brother.message
+
+* Brother: Sone of a bitch, my hard drive is broken again.  This is third time in three months.
+* Me: Why don't you ask you company for a solid state?
+* Brother: would you like to see all the emails I have sent?
+* Me: sure
+* Brother: I can't, my hard drive is broken..
+
+
