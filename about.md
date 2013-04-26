@@ -5,6 +5,7 @@ layout: page
 <img src='/assets/images/profile_pic.png' width='400' >
 
 
+* [Resume][5]
 * [StackExchange][0]
 * [Github][1]
 * [Linkedin][2]
@@ -12,8 +13,10 @@ layout: page
 * [Facebook][4]
 
 
+
 [0]: http://stackexchange.com/users/1153537/rudolph9?tab=accounts
 [1]: https://github.com/rudolph9
 [2]: http://www.linkedin.com/in/kurtrrudolph
 [3]: https://twitter.com/krudolph9
 [4]: https://www.facebook.com/kurt.rudolph
+[5]: https://github.com/rudolph9/resume/blob/master/bin/resume-rudolph_kurt.pdf?raw=true
