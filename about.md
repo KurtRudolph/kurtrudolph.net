@@ -10,7 +10,7 @@ layout: page
 * [Github][1]
 * [Linkedin][2]
 * [Twitter][3]
-* [Facebook][4]
+* [reddit][4]
 
 
 
@@ -18,5 +18,5 @@ layout: page
 [1]: https://github.com/rudolph9
 [2]: http://www.linkedin.com/in/kurtrrudolph
 [3]: https://twitter.com/krudolph9
-[4]: https://www.facebook.com/kurt.rudolph
+[4]: http://www.reddit.com/user/rudolph9/
 [5]: https://github.com/rudolph9/resume/blob/master/bin/resume-rudolph_kurt.pdf?raw=true
