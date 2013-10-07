@@ -63,10 +63,13 @@ the space-bar, left command, and right keys into the middle, left, and right cli
 to remove my hands from the home row and in turn more efficient at developing software.
 
 
-## What are your hobbies / tell me something interesting about yourself.
+## What are your hobbies / tell me something interesting about yourself?
 I'm a really good cook, I'm famous for my Chili.  My secrete ingredient 
 is Italian dressing.
   
 I love running! I trained competitively high school and since have made it part of a more leisurely exercise routine. 
   
 I am a big fan of music and occasionally attend concerts and shows.
+
+## What is a situation where the manor in which you built something carried over and negatively effected you there after?
+
