@@ -16,7 +16,7 @@ I'm someone who pours every I have into what I do.
 I'm very passionate about programming and the possibilities of 
 how computing may bring people together.  Working largely alone though
 I've found my self rather isolated and have recently decided to 
-pursue more conventional career opportunities.
+pursue more collaborative career opportunities.
 
 ## How do you go about solving a problem?
 I work toward finding a solution.  I don't like to over think things.  
@@ -30,12 +30,12 @@ is how I go about solving a problem.
 Becoming a software developer.  Growing up I was an epileptic, and the combination 
 of often being hospitalized for my condition and a learning disability similar to dyslexia 
 I found self in remedial classes throughout my grammar and high school career.  
-I was always good at math but the first class which really clicked for me was Computer Science 
+I've always been good at math but the first class that really clicked for me was Computer Science 
 my Junior year of high school.  I had finally found something that just felt right 
-and I told my self there and then  "I'm going to build software for the rest of my life."
+and I told my self there and then "I'm going to build software for the rest of my life".
 
 It's been a long and difficult path getting to where I am today.  
-But, I've graduated from a top 5 CS school, love what I do, 
+But, I've since graduated from a top 5 CS school, love what I do, 
 and feel like I'm only just beginning to realize what I'm capable of.
 
 # What is your greatest weaknesses?
@@ -52,7 +52,7 @@ speak in a context suited to the person I am communicating with.
 Dynamically responding to questions is one of many techniques I employ.  While communication is likely still my greatest weakness,
 I believe it is something I can always improve.
 
-## What are your strengths?
+## What is your greatest strength?
 Looking at things in a unique manner.  I don't process information like most people.  
 I am unique in that regard and although it contributes to my weakness in communication, 
 it enables to me to find unique solutions to problems others likely wouldn't have thought of.
