@@ -9,7 +9,6 @@ layout: page
 * [Github][1]
 * [Linkedin][2]
 * [Twitter][3]
-* [reddit][4]
 
 
 <br>
@@ -31,6 +30,7 @@ of the [Graph 500](11). [Github repo](https://github.com/KurtRudolph/PGAS_SC11).
 * [microAeth-AE51-Ruby](https://github.com/RudyComputing/microAeth-AE51-Ruby) - A gem I wrote to interface with the proprietary AethLabs microAeth&reg; model AE51 testing device.
 * [RudyComputing.io](http://www.rudycomputing.io/) - My company website I built using Rails and Bootstrap.
 * [Backbone.js AdminPanel](http://pure-refuge-1784.herokuapp.com/) - A basic AdminPanel build with Backbone.js and Rails.
+* [Christmas Stool](http://imgur.com/a/5kWk9) - The stools I made for each of my nieces and nephews
 
 
 
