@@ -31,6 +31,7 @@ of the [Graph 500](11). [Github repo](https://github.com/KurtRudolph/PGAS_SC11).
 * [RudyComputing.io](http://www.rudycomputing.io/) - My company website I built using Rails and Bootstrap.
 * [Backbone.js AdminPanel](http://pure-refuge-1784.herokuapp.com/) - A basic AdminPanel build with Backbone.js and Rails.
 * [Christmas Stool](http://imgur.com/a/5kWk9) - The stools I made for each of my nieces and nephews
+* [Chi-Text](http://chi-text.com/) - An SMS-based service to provide access to City of Chicago Municipal data.  Built for and awarded 1st prize at the [LincolnLabs Chicago hackathon](http://lincolnlabs.com/hackathons/chicago.html).  [Github repo](https://github.com/bosgood/chi-text).
 
 
 
