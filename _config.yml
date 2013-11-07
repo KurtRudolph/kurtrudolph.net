@@ -101,11 +101,11 @@ JB :
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
-  #        
+  #        <script type="text/javascript">
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-28201764-1'
     getclicky :
       site_id : 
     mixpanel :
